@@ -13,3 +13,7 @@ p {
 h1 {
     color:white;
 }
+
+a:visited {
+    color:aqua;
+}
