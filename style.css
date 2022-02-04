@@ -14,6 +14,10 @@ h1 {
     color:white;
 }
 
-h3 a:visited {
-    color:aqua;
+a {
+    color: blue;
+}
+
+a:visited {
+    color: aqua;
 }
